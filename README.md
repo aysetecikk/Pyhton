@@ -1,2 +1,2 @@
-# Pyhton
-pyhton ilk çalışma_1
+# Python
+python ilk çalışma_1
